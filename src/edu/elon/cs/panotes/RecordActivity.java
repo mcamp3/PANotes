@@ -1,5 +1,5 @@
 //http://developer.android.com/guide/topics/media/audio-capture.html
-//changes
+//changes changes
 package edu.elon.cs.panotes;
 
 import android.os.Bundle;
